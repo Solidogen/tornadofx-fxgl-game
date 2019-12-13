@@ -104,7 +104,7 @@ fabric.properties
 .mtj.tmp/
 
 # Package Files #
-*.jar
+#*.jar // BUILD REQUIRES .JAR FILES FOR JAVAFX / FXGL, SO I NEED THEM IN REPO
 *.war
 *.nar
 *.ear
